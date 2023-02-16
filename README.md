@@ -1,4 +1,5 @@
-### Hi there 👋
+https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif
+### Put your hands in the air 👋
 
 <!--
 **Yehor11/Yehor11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
